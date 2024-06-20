@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.12",
     "@mui/lab": "^5.0.0-alpha.130",
-    "@mui/material": "^5.14.12",
+    "@mui/material": "^5.15.4",
     "@mui/styled-engine-sc": "^5.14.12",
     "@raedyk/socketapi": "^1.0.2",
     "crypto-js": "^4.2.0",
