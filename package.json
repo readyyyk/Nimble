@@ -20,7 +20,7 @@
     "crypto-js": "^4.2.0",
     "logrocket": "^6.0.2",
     "logrocket-react": "^6.0.1",
-    "npm": "^10.2.2",
+    "npm": "^10.9.0",
     "prop-types": "^15.8.1",
     "qrcode": "^1.5.3",
     "randimg": "^1.0.2",
